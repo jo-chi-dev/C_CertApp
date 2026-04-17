@@ -20,6 +20,7 @@ C_CertApp/
 │   ├── environment.md     # 動作環境
 │   ├── architecture.md    # アーキテクチャ・設計
 │   ├── sql_guide.md       # SQL/libpq実装ガイド
+│   ├── grammer.md　       # SQL記法ガイド
 │   └── connection_spec.md # 接続仕様・ビルド手順
 └── README.md              # プロジェクト全体像（本ファイル）
 ```
